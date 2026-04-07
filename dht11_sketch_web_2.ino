@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <DHT.h>
 
-const char* ssid = "iPhone";
-const char* password = "r2d2c3po";
+const char* ssid = "";
+const char* password = "";
 
 #define DHTPIN 23
 #define DHTTYPE DHT11
